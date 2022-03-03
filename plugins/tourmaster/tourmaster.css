@@ -321,7 +321,7 @@
 .tourmaster-header-price .tourmaster-tour-price .tourmaster-head{ font-size: 14px; margin-right: 10px; }
 .tourmaster-header-price .tourmaster-tour-price .tourmaster-tail{ font-size: 32px; margin-right: 15px; font-weight: 800; }
 .tourmaster-header-price .tourmaster-tour-discount-price{ font-size: 32px; font-weight: 800; }
-.tourmaster-header-price .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price .tourmaster-tail{ font-size: 15px; font-weight: 500; text-decoration: line-through; }
+.tourmaster-header-price .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price .tourmaster-tail{ font-size: 15px; font-weight: 500;  }
 .tourmaster-header-price .tourmaster-tour-price-info{ vertical-align: top; margin-left: -5px; }
 .tourmaster-header-price .tourmaster-discount .tourmaster-tour-price-info { margin-left: 5px; }
 .tourmaster-single-header.tourmaster-start-script .tourmaster-header-price{ display: none; }
@@ -1030,7 +1030,7 @@ a.tourmaster-button, input[type="button"].tourmaster-button, input[type="submit"
 .tourmaster-tour-widget .tourmaster-tour-price .tourmaster-head{ font-size: 13px; margin-right: 10px; }
 .tourmaster-tour-widget .tourmaster-tour-price .tourmaster-tail{ font-size: 16px; font-weight: 700; }
 .tourmaster-tour-widget .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price .tourmaster-head{ margin-right: 8px; }
-.tourmaster-tour-widget .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price .tourmaster-tail{ font-size: 13px; font-weight: normal; margin-right: 10px; text-decoration: line-through }
+.tourmaster-tour-widget .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price .tourmaster-tail{ font-size: 13px; font-weight: normal; margin-right: 10px; }
 .tourmaster-tour-widget .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-discount-price{ font-size: 16px; font-weight: 700; }
 .tourmaster-tour-widget .tourmaster-tour-content-info.tourmaster-with-ribbon{ padding-top: 5px; }
 .tourmaster-tour-widget .tourmaster-tour-content-info.tourmaster-with-ribbon .tourmaster-tour-price-wrap{ float: right; }
@@ -1051,7 +1051,7 @@ a.tourmaster-button, input[type="button"].tourmaster-button, input[type="submit"
 .tourmaster-tour-grid .tourmaster-tour-price{ font-size: 22px; font-weight: 800; line-height: 1; }
 .tourmaster-tour-grid .tourmaster-tour-price .tourmaster-head{ font-size: 15px; margin-bottom: 7px; font-weight: normal; }
 .tourmaster-tour-grid .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price{ font-size: 15px; font-weight: normal; }
-.tourmaster-tour-grid .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price .tourmaster-tail{ text-decoration: line-through; }
+.tourmaster-tour-grid .tourmaster-tour-price-wrap.tourmaster-discount .tourmaster-tour-price .tourmaster-tail{  }
 .tourmaster-tour-grid .tourmaster-tour-discount-price{ font-size: 22px; line-height: 1; margin-top: 6px; font-weight: 800; }
 .tourmaster-tour-grid.tourmaster-price-right-title .tourmaster-tour-title{ padding-right: 100px; }
 .tourmaster-tour-grid.tourmaster-price-right-title .tourmaster-tour-price-wrap{ text-align: right; position: absolute; top: 0px; right: 0px; }
