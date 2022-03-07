@@ -1,0 +1,39 @@
+.active {
+  display: block !important;
+}
+.actv{
+ background-color: #f97150;
+ color: white !important;
+}
+.item {
+ height: 24rem;
+  display: none;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.traveltour-content-area {
+  padding-top: 30px;
+}
+
+.fa-film:before {
+  display: none;
+}
+.tourmaster-tour-grid .tourmaster-tour-discount-price {
+  color: #f97150;
+}
+
+@media (max-width:900px) {
+
+ .list-group{
+  flex-direction: row;
+  margin-bottom: 2rem;
+ }
+}
+@media (max-width:400px) {
+.list-group{
+  font-size: 0.8rem;
+ }
+  
+}
+
