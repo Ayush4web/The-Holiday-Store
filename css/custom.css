@@ -16,7 +16,7 @@
    margin-bottom: 2rem;
 }
 .tourmaster-price-right-title{
-  padding-top: 70px;
+  margin-top: 8rem;
 }
 .list-group-item {
   cursor: pointer;
@@ -45,4 +45,5 @@
  }
   
 }
+
 
