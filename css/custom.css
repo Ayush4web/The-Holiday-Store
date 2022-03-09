@@ -6,8 +6,17 @@
  color: white !important;
 }
 .item {
- height: 24rem;
+  overflow: auto;
+ height: 30rem;
   display: none;
+}
+.item img{
+   width: 100%;
+   height: 20rem;
+   margin-bottom: 2rem;
+}
+.tourmaster-price-right-title{
+  padding-top: 70px;
 }
 .list-group-item {
   cursor: pointer;
