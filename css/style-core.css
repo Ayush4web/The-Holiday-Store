@@ -20950,3 +20950,16 @@ html.mm-opening.traveltour-mmenu-right .traveltour-mobile-header {
 .text-dark {
   color: black !important;
 }
+
+.textwidget span{
+  color: #c7c7c7 !important;
+  font-size: 15px !important;
+}
+.textwidget{
+  color: #c7c7c7 !important;
+  /* font-size: 15px !important; */
+}
+
+.tourmaster-tour-item .tourmaster-tour-thumbnail-overlay:hover {
+  opacity: 0 !important;
+}
