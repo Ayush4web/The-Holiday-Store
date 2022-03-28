@@ -41,9 +41,18 @@
 }
 @media (max-width:400px) {
 .list-group{
-  font-size: 0.8rem;
+  font-size: 0.6rem;
  }
   
+ .gdlr-core-pbf-column-content-margin{
+   margin-bottom: 2rem !important;
+ }
+ .gdlr-core-pbf-column-content-margin{
+   padding: 0;
+ }
+ .gdlr-core-pbf-element {
+   margin-top: 2rem;
+ }
 }
 
 .textwidget span{

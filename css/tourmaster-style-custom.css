@@ -915,3 +915,36 @@ table.tourmaster-my-booking-table .tourmaster-my-booking-price {
   .tourmaster-combobox-wrap:after {
   color: #878787;
 }
+
+@media (max-width: 400px) {
+  .tourmaster-media-image {
+    height: 200px;
+  }
+  .tourmaster-media-image img {
+    height: 100%;
+  }
+  .gdlr-core-pbf-column-content-margin {
+    height: 230px !important;
+  }
+  .traveltour-single-article-title {
+    font-size: 30px !important;
+  }
+  .traveltour-blog-title-wrap.traveltour-feature-image
+    .traveltour-blog-title-bottom-overlay {
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.4)
+    ) !important;
+  }
+
+  .list-group{
+    justify-content: space-evenly;
+  }
+  .list-group-item{
+    padding: 0.1rem 0.1rem;
+  }
+  .traveltour-body h4{
+    font-size: 18px !important;
+  }
+}

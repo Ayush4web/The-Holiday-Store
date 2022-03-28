@@ -16,6 +16,10 @@
  * 1.0 - Reset
  */
 
+ .traveltour-main-menu-search{
+   display: none;
+ }
+
 html,
 body,
 div,
@@ -2843,6 +2847,7 @@ body.traveltour-boxed
   display: none;
 }
 .traveltour-mobile-header-wrap .traveltour-main-menu-search {
+  display: none;
   margin-top: -3px;
 }
 .traveltour-mobile-header-wrap .traveltour-mobile-menu {
