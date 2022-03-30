@@ -53,6 +53,9 @@
  .gdlr-core-pbf-element {
    margin-top: 2rem;
  }
+ .gdlr-core-pbf-column{
+   height: 100px !important;
+ }
 }
 
 .textwidget span{
